@@ -1,0 +1,17 @@
+.country{
+    border:2px solid purple;
+    padding:20px;
+    border-radius: 20px;
+    margin:10px;
+    text-align: center;
+}
+.btn{
+    background-color: darkcyan;
+    color:white;
+}
+.bg-color{
+    background-color: steelblue;
+}
+.non-color{
+    background-color: beige;
+}
